@@ -18,9 +18,8 @@ Pha5e is a modern and dynamic hero section designed with smooth animations and a
  📌 How to Use
 
 1. Clone the repository:
-   ```sh
-  https://github.com/Dharshini-sankar/Pha5e-hero.git
-   ```
+  "https://github.com/Dharshini-sankar/Pha5e-hero.git"
+   
 2. Open `index.html` in your browser.
 
 🛠 Customization
